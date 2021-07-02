@@ -26,9 +26,9 @@ defaults.pcm.device 0
 
 you can find the card number with aplay -l command
 
-root@Home:~# aplay -l
-**** List of PLAYBACK Hardware Devices ****
-card 0: b1 [bcm2835 HDMI 1], device 0: bcm2835 HDMI 1 [bcm2835 HDMI 1]
+ root@Home:~# aplay -l
+ **** List of PLAYBACK Hardware Devices ****
+ card 0: b1 [bcm2835 HDMI 1], device 0: bcm2835 HDMI 1 [bcm2835 HDMI 1]
   Subdevices: 4/4
   Subdevice #0: subdevice #0
   Subdevice #1: subdevice #1
