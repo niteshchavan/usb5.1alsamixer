@@ -48,3 +48,4 @@ card 2: ICUSBAUDIO7D [ICUSBAUDIO7D], device 0: USB Audio [USB Audio]
   Subdevice #0: subdevice #0
 root@Home:~#
 
+
