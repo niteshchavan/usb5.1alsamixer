@@ -10,7 +10,7 @@ apt-get install blop
 
 apt-get install cmt
 
-apt-get install alsa-utils
++apt-get install alsa-utils
 
 now copy ladspa in /usr/lib/ladspa/
 
@@ -28,7 +28,7 @@ you can find the card number with aplay -l command
 
  root@Home:~# aplay -l
  
- card 0: b1 [bcm2835 HDMI 1], device 0: bcm2835 HDMI 1 [bcm2835 HDMI 1]
+ card 0: b1 [bcm2835 HDMI 1], device 0: bcm2835 HDMI 1 [bcm2835 HDMI 1
   Subdevices: 4/4
   Subdevice #0: subdevice #0
   Subdevice #1: subdevice #1
@@ -44,3 +44,4 @@ card 2: ICUSBAUDIO7D [ICUSBAUDIO7D], device 0: USB Audio [USB Audio]
   Subdevices: 0/1
   Subdevice #0: subdevice #0
 root@Home:~#
+
