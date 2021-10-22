@@ -10,9 +10,9 @@ apt-get install blop
 
 apt-get install cmt
 
-+apt-get install alsa-utils
+apt-get install alsa-utils
 
-now copy ladspa in /usr/lib/ladspa/
+now copy ladspa in /usr/lib/ladspa/ (not reqired now)
 
 now copy asound.conf in /etc/
 
