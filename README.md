@@ -3,6 +3,7 @@
 This is alsamixer configuration for USB soundcard stereo to 5.1 upmix. for raspberry pi 4B+ and Zero
 
 Source https://alsa.opensrc.org/Low-pass_filter_for_subwoofer_channel_(HOWTO)
+Source https://superuser.com/questions/960573/how-do-i-make-alsa-upmix-2-0-to-2-1
 
 Install below dependencies for 5.1 surround sound
 
