@@ -6,6 +6,8 @@ Source https://alsa.opensrc.org/Low-pass_filter_for_subwoofer_channel_(HOWTO)
 
 Install below dependencies for 5.1 surround sound
 
+apt-get install libasound2-plugins
+
 apt-get install blop
 
 apt-get install cmt
